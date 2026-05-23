@@ -51,4 +51,4 @@ This project was a valuable learning experience in browser extension development
 Conclusion
 
 
-  
+  <img width="2875" height="1412" alt="Image" src="https://github.com/user-attachments/assets/f8f17481-83c6-40b5-a620-1e713801107b" />
